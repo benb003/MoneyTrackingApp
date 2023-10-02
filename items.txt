@@ -1,0 +1,6 @@
+title:lön;amount:35000;date:2023-02-23 00:00:00;type:2;
+title:sales;amount:10000;date:2023-01-01 00:00:00;type:2;
+title:extra;amount:2500;date:2023-03-01 00:00:00;type:2;
+title:rent;amount:13800;date:2023-11-26 00:00:00;type:1;
+title:iphone 15 pro;amount:999;date:2023-05-12 00:00:00;type:1;
+title:loan;amount:500050;date:2020-01-01 00:00:00;type:2;

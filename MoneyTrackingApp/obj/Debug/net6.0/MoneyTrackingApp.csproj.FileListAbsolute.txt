@@ -1,0 +1,15 @@
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/bin/Debug/net6.0/MoneyTrackingApp
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/bin/Debug/net6.0/MoneyTrackingApp.deps.json
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/bin/Debug/net6.0/MoneyTrackingApp.runtimeconfig.json
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/bin/Debug/net6.0/MoneyTrackingApp.dll
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/bin/Debug/net6.0/MoneyTrackingApp.pdb
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.csproj.AssemblyReference.cache
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.AssemblyInfoInputs.cache
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.AssemblyInfo.cs
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.csproj.CoreCompileInputs.cache
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.dll
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/refint/MoneyTrackingApp.dll
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.pdb
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/MoneyTrackingApp.genruntimeconfig.cache
+/Users/hamzab/RiderProjects/MoneyTrackingApp/MoneyTrackingApp/obj/Debug/net6.0/ref/MoneyTrackingApp.dll
