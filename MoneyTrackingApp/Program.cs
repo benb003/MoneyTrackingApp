@@ -39,10 +39,10 @@ do
     switch (userSelection)
     {
         case "1":
-            Service.AddItem();
+            ItemRepository.AddItem();
             break;
         case "2":
-            Service.ViewAllItems();
+            ItemRepository.ShowAllItems();
             break;
         case "3":
             ItemRepository.ViewOnlyIncomes();
